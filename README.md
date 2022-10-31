@@ -9,6 +9,7 @@ Assignment 01 is now completed.
 
 ### Assginment 01 comments - Chenyy
 You did a great job! You gave a near perfect job, keep going. I shall give you full point with 5 bonus. :)
+
 	re: Thanks! ;)
 
 ## Assignment 02
