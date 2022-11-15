@@ -35,3 +35,13 @@ However, it can be downloaded from [this website](https://www.ncei.noaa.gov/prod
 ### Assginment 02 comments - Chenyy
 Great job! You did gave a near perfect job, keep going. I shall give you full point with 5 bonus.
 The activity of largescale synoptic systems (e.g., Mongolian cyclones) might attribute the largest wind speed during March to May in your hometown, please find the detail in https://doi.org/10.1016/j.apenergy.2018.12.056.
+
+	re: Tks a lot for your review! I went over the paper and thought it might be the explanation. New knowleged gained.
+	
+## Assignment 03
+
+Assignment 03 is now completed.
+
+- Source Code(PS1.ipynb)
+- Report(PS1.pdf)
+- Data(in the `data_files` folder)
