@@ -42,6 +42,6 @@ The activity of largescale synoptic systems (e.g., Mongolian cyclones) might att
 
 Assignment 03 is now completed.
 
-- Source Code(PS1.ipynb)
-- Report(PS1.pdf)
+- Source Code(PS3.ipynb)
+- Report(PS3.pdf)
 - Data(in the `data_files` folder)
