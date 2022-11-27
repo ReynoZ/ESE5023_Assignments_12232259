@@ -45,3 +45,11 @@ Assignment 03 is now completed.
 - Source Code(PS3.ipynb)
 - Report(PS3.pdf)
 - Data(in the `data_files` folder)
+
+## Assignment 04
+
+Assignment 04 is now completed.
+
+- Source Code(PS4.ipynb)
+- Report(PS4.pdf)
+- Data(in the `data_files` folder)
