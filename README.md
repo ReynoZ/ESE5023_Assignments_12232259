@@ -53,3 +53,12 @@ Assignment 04 is now completed.
 - Source Code(PS4.ipynb)
 - Report(PS4.pdf)
 - Data(in the `data_files` folder)
+
+## Assignment 05
+
+Assignment 05 is now completed.
+
+- Source Code(PS5.ipynb)
+- Report(PS5.pdf)
+- Data(in the `data_files` folder)
+- Reference Article (from the lecturer)
