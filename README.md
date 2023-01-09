@@ -46,6 +46,12 @@ Assignment 03 is now completed.
 - Report(PS3.pdf)
 - Data(in the `data_files` folder)
 
+### Comemnts on HW3 Lixc (48/50)
+1.3 
+De-seasonalized can be interpreted as "de-seasonalized Sept. = THAT Sept. - All Sept. mean" (-2p)
+2.1
+Same as described above. Be careful about the definition of "monthly climatology", which is similar to "de-seasonalize".
+
 ## Assignment 04
 
 Assignment 04 is now completed.
@@ -53,6 +59,10 @@ Assignment 04 is now completed.
 - Source Code(PS4.ipynb)
 - Report(PS4.pdf)
 - Data(in the `data_files` folder)
+
+### Assginment 04 comments - Chenyy
+Great job! I shall give you full point (30/30).
+Your homework is almost perfect.
 
 ## Assignment 05
 
@@ -62,3 +72,8 @@ Assignment 05 is now completed.
 - Report(PS5.pdf)
 - Data(in the `data_files` folder)
 - Reference Article (from the lecturer)
+
+### Assginment 05 comments - Chenyy
+Great job! I shall give you full point (42/40).
+Your report is neat and organized (+2). Keep going!
+
